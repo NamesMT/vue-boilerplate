@@ -1,5 +1,10 @@
 # auth-client
 
+# Project components
+```
+Vue 3, Babel, router, vuex, vue-axios, tailwindcss, sass
+```
+
 ## Project setup
 ```
 yarn install
